@@ -1,4 +1,4 @@
-#Hello 
+# Hello 
 Welcome to my Youtube Tutorials sponsered by FreeCodeCamp.
 
 Here we start the 1st session.
@@ -13,6 +13,6 @@ How to install git : https://www.atlassian.com/git/tutorials/install-git
 How to generate SSH key : https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
 
-#Useful Links:
+# Useful Links:
 
 https://www.freecodecamp.org/news/how-to-delete-a-git-branch-both-locally-and-remotely/
