@@ -1,3 +1,4 @@
-# Demo
+Hello 
+Welcome to my Youtube Tutorials sponsered by FreeCodeCamp.
 
-Welcome to Git and Git Hub Crash Course 
+Here we start the 1st session.
